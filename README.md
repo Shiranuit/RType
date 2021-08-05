@@ -1,2 +1,2 @@
 # RType
-RType like game
+RType like game done during my years of studies
